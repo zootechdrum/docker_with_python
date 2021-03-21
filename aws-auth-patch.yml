@@ -37,9 +37,9 @@ metadata:
         f:username: {}
     manager: kubectl-patch
     operation: Update
-    time: "2021-03-19T03:08:53Z"
+    time: "2021-03-20T17:08:13Z"
   name: aws-auth
   namespace: kube-system
-  resourceVersion: "3014"
+  resourceVersion: "355363"
   selfLink: /api/v1/namespaces/kube-system/configmaps/aws-auth
   uid: dfa00d10-eea0-416b-8d4b-bae65c55d558
